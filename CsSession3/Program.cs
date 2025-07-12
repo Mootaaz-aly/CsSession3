@@ -9,24 +9,6 @@ namespace CsSession3
     {
         static void Main(string[] args)
         {
-            #region Convert 
-            /*Console.WriteLine("Enter Your Data");
-
-            Console.Write("Enter Your Name: ");
-            string Name = Console.ReadLine();
-
-            Console.Write("Enter Your Age: ");
-            int Age = Convert.ToInt32(Console.ReadLine());
-
-            Console.Write("Enter Your Salary: ");
-            Decimal Salary = Convert.ToDecimal(Console.ReadLine());
-
-            //Console.Clear();
-            Console.WriteLine("Your Name is : " + Name);
-            Console.WriteLine("Your Salary is : " + Salary);
-            Console.WriteLine("Your Age is : " + Age);*/
-
-            #endregion
 
             #region Q1
 
