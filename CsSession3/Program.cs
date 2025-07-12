@@ -28,25 +28,6 @@ namespace CsSession3
 
             #endregion
 
-            #region TryParse
-            /*Console.Write("Enter Your Name: ");
-            string Name = Console.ReadLine();
-
-
-            Console.Write("Enter Your Age: ");
-            int Age; int.TryParse(Console.ReadLine(), out Age);
-
-            Console.Write("Enter Your Salary: ");
-            decimal Salary; decimal.TryParse(Console.ReadLine(), out Salary);
-
-            //Console.Clear();
-            Console.WriteLine("Your Name is : " + Name);
-            Console.WriteLine("Your Salary is : " + Salary);
-            Console.WriteLine("Your Age is : " + Age);*/
-
-            #endregion
-
-
             #region Q1
 
             /*Console.Write("Enter a Number: ");
